@@ -2,4 +2,4 @@
 command=/usr/sbin/sshd -D
 autostart=true
 autorestart=true
-startsecs=1999
+startsecs=5
